@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  height: 100vh;
+}
+.message_404 {
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 15.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
